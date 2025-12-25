@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\controllers\\carmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\repositories\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\repositories\\interfaces\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\repositories\\interfaces\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\repositories\\implementations\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\services\\implementations\\carsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\services\\implementations\\carsevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\services\\implementations\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\services\\implementations\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\services\\interface\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\services\\interface\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\services\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\services\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\services\\interface\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\services\\interface\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\services\\interface\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\services\\interface\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\models\\carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\models\\carmodelvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\models\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\repositories\\implementations\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\repositories\\implementations\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\repositories\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043420_initDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTO PARTS STORE\\Migrations\\20251218043420_initDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043232_initDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTO PARTS STORE\\Migrations\\20251218043232_initDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Data\\Migrations\\20251218042644_initDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTO PARTS STORE\\Data\\Migrations\\20251218042644_initDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\repositories\\implementations\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\migrations\\20251218043706_ad\u0111b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\migrations\\20251218043706_ad\u0111b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|c:\\users\\huy\\desktop\\lab8\\auto parts store\\auto parts store\\migrations\\20251218043500_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{466C2898-A7B2-36B3-C185-BCC8041A2D50}|AUTO PARTS STORE\\CarSales.csproj|solutionrelative:auto parts store\\migrations\\20251218043500_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Controllers\\CarController.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:14:34.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAswDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:00:04.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:44:20.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Repositories\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:54:33.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICarModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Repositories\\Interfaces\\ICarModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:55:04.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Program.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Program.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Program.cs*",
+              "RelativeToolTip": "AUTO PARTS STORE\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:25:47.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarModelController.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Controllers\\CarModelController.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Controllers\\CarModelController.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Controllers\\CarModelController.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Controllers\\CarModelController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:16:01.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarSevice.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Implementations\\CarSevice.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Services\\Implementations\\CarSevice.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Implementations\\CarSevice.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Services\\Implementations\\CarSevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:22:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarModelService.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Implementations\\CarModelService.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Services\\Implementations\\CarModelService.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Implementations\\CarModelService.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Services\\Implementations\\CarModelService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:26:49.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICarModelService.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Interface\\ICarModelService.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Services\\Interface\\ICarModelService.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Interface\\ICarModelService.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Services\\Interface\\ICarModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:04:08.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\Car.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:23:03.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Repositories\\Implementations\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Implementations\\CarRepository.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Repositories\\Implementations\\CarRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T05:04:30.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Implementations\\BrandService.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Services\\Implementations\\BrandService.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Implementations\\BrandService.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Services\\Implementations\\BrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:07:18.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Interface\\ICarService.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Services\\Interface\\ICarService.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Interface\\ICarService.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Services\\Interface\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:01:04.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Interface\\IBrandService.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Services\\Interface\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Services\\Interface\\IBrandService.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Services\\Interface\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T03:59:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\CarModel.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Models\\CarModel.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\CarModel.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Models\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:22:17.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\Brand.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:21:54.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarModelVm.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\CarModelVm.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Models\\CarModelVm.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Models\\CarModelVm.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Models\\CarModelVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T03:43:39.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarModelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Implementations\\CarModelRepository.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Repositories\\Implementations\\CarModelRepository.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Implementations\\CarModelRepository.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Repositories\\Implementations\\CarModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T03:26:07.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\appsettings.json",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\appsettings.json",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\appsettings.json",
+              "RelativeToolTip": "AUTO PARTS STORE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T04:23:23.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Repositories\\Interfaces\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:53:04.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Repositories\\Implementations\\BrandRepository.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Repositories\\Implementations\\BrandRepository.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Repositories\\Implementations\\BrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:55:33.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:39:00.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20251218043706_Ad\u0111B.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043706_Ad\u0111B.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Migrations\\20251218043706_Ad\u0111B.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043706_Ad\u0111B.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Migrations\\20251218043706_Ad\u0111B.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:37:06.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:34:55.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20251218043500_initDB.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043500_initDB.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Migrations\\20251218043500_initDB.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043500_initDB.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Migrations\\20251218043500_initDB.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:35:00.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251218043420_initDB.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043420_initDB.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Migrations\\20251218043420_initDB.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043420_initDB.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Migrations\\20251218043420_initDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:34:20.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251218043232_initDB.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043232_initDB.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Migrations\\20251218043232_initDB.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Migrations\\20251218043232_initDB.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Migrations\\20251218043232_initDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:32:32.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251218042644_initDB.cs",
+              "DocumentMoniker": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Data\\Migrations\\20251218042644_initDB.cs",
+              "RelativeDocumentMoniker": "AUTO PARTS STORE\\Data\\Migrations\\20251218042644_initDB.cs",
+              "ToolTip": "C:\\Users\\HUY\\Desktop\\Lab8\\AUTO PARTS STORE\\AUTO PARTS STORE\\Data\\Migrations\\20251218042644_initDB.cs",
+              "RelativeToolTip": "AUTO PARTS STORE\\Data\\Migrations\\20251218042644_initDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:26:44.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
